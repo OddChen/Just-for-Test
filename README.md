@@ -17,3 +17,7 @@ git merge    合并分支(将命令中的分支合并到当前分支）
 git branch -b a 删除a分支  
 git branch -D a 强行删除a分支  
 git tag      新建一个标签  
+
+
+内容都已经总结在了我的博客里，这里不再挨个总结
+博客地址：http://oddchen.xyz/
